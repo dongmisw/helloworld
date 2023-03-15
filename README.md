@@ -15,6 +15,5 @@
 [대회홈페이지](https://www.naver.com) <br>
 [발표ppt](/presentation.pptx) <br>
 발표 동영상<br>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/Tgr9KOkjNnU" title="[22/23 PL 27R] 토트넘 vs 노팅엄 손흥민 주요장면" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/SWHVgNGPhJE" title="[DMU] 요즘 유행하는 MZ세대 특, 이거 진짜야?ㅣ찐MZ세대가 직접 리뷰해 봄! 😂" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 # 취미 
