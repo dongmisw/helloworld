@@ -1,0 +1,1 @@
+kubeadm join 127.0.0.1:6443 --token lwmy14.bt1gkyz45o3wh9gd --discovery-token-ca-cert-hash sha256:33a845cbbd837653eb872de0fa2e895ad4f7acec929984c2a1aa2338fd84c67a 
