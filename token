@@ -2,3 +2,5 @@ kubeadm join 127.0.0.1:6443 --token lwmy14.bt1gkyz45o3wh9gd --discovery-token-ca
 
 
 kubeadm join 127.0.0.1:6443 --token uuu9z1.pc121dib73udm3u3 --discovery-token-ca-cert-hash sha256:33a845cbbd837653eb872de0fa2e895ad4f7acec929984c2a1aa2338fd84c67a 
+kubeadm join 192.168.176.134:6443 --token mkgsdt.p7ma3fj3rqh7rfhi \
+	--discovery-token-ca-cert-hash sha256:63d00bd2543dc737a5f30f9d860dd7d655b800d1149f38af004fd1d682f345a1 
